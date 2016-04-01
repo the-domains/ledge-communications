@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Conscious Creative recently partnered with the Edmonton in a Box team. We were in charge of running their social media, assisting with web design and development and corporate branding challenges. We also assisted with product photography and corporate strategy.\_"
-datePublished: '2016-04-01T20:32:56.839Z'
-dateModified: '2016-04-01T20:31:19.375Z'
+description: 'Corporate branding, social media management and website development '
+datePublished: '2016-04-01T20:44:28.611Z'
+dateModified: '2016-04-01T20:44:27.944Z'
 title: Edmonton In a Box
 author: []
 authors: []
