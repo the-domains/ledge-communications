@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Today, as our social landscape is continually being altered by the fast-paced world of online networking, more and more brands are turning to social media marketing to get in touch with their customers.\_"
-datePublished: '2016-04-01T21:24:16.387Z'
-dateModified: '2016-04-01T21:24:15.716Z'
-title: ''
+datePublished: '2016-04-02T21:29:20.491Z'
+dateModified: '2016-04-01T21:24:56.935Z'
+title: How To Develop A Social Media Strategy In 8 Steps
 author: []
 authors: []
 publisher:
